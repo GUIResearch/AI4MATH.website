@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Meet the Team"
+permalink: /theteam/
 author_profile: true
 ---
 
